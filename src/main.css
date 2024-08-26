@@ -1,0 +1,67 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+body {
+  background-color: aliceblue;
+  margin: auto;
+}
+section {
+  overflow: hidden;
+}
+.container-fluid {
+  background-color: #fff;
+  margin-bottom: 0rem;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.search {
+  width: 35rem;
+}
+.dropdown1 {
+  padding: 5px;
+  width: 29rem;
+  border-color: lightgray;
+  border-radius: 5px;
+  color: gray;
+}
+a {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.main {
+  overflow: hidden;
+  margin: 2rem;
+  width: 100%;
+}
+.main .d-flex {
+  justify-content: space-between;
+}
+.category {
+  margin-top: 3rem;
+}
+
+.content {
+  background-color: #fef7f6;
+  width: 20rem;
+  padding: 45px 25px;
+  border-radius: 15px;
+  margin-right: 1rem;
+}
+.content .butt {
+  margin-left: 1rem;
+}
+.content .butt2 {
+  margin-left: 4rem;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+}
